@@ -15,6 +15,7 @@ Programa realizado en C++ que muestra por pantalla:
 Hola mundo
 
 Compilador utilizado: G++ (MSYS2)
+
 -std=c++23
 
 ## Archivos del repositorio
